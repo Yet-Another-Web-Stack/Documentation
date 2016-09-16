@@ -6,11 +6,11 @@ avoids monolithic architecture.
 
 Properties the stack should have:
 
-* vendor-neutral - MIT or Apache 2 licencing
-* light-weight - HTML5 CSS3, ECMAscript, Thrift protocol
-* request-reply and publisch subscribe - http and websockets
-* high-performance - Thrift protocol, tcp/ip (Websockets)
-* cross-language - Thrift protocol
+* vendor neutral - MIT or Apache 2 licencing
+* light weight - HTML5 CSS3, ECMAscript, Thrift protocol
+* request reply and publish subscribe - http and websockets
+* high performance - Thrift protocol, tcp/ip (websockets)
+* cross language - Thrift protocol
 * language agnostic network - Thrift protocol
 * modular polyglot microservices - PHP, Java, PERL, C#, C++
 * evolving interfaces without breaking existing implementations -Thrift protocol
