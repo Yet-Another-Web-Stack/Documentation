@@ -14,7 +14,7 @@ Properties the stack should have:
 * language agnostic network - Thrift protocol
 * modular polyglot microservices - PHP, Java, PERL, C#, C++
 * evolving interfaces without breaking existing implementations -Thrift protocol
-* explicit interface design -Thrift IDL
+* explicit interface and bounded context design -Thrift IDL
 
 
 
