@@ -12,7 +12,7 @@ Properties the stack should have:
 * high performance - Thrift protocol, tcp/ip (websockets)
 * cross language - Thrift protocol
 * language agnostic network - Thrift protocol
-* modular polyglot microservices - PHP, Java, PERL, C#, C++
+* modular polyglot microservices - PHP, Java, Javascript, PERL, C#, C++
 * evolving interfaces without breaking existing implementations -Thrift protocol
 * explicit interface and bounded context design -Thrift IDL
 
