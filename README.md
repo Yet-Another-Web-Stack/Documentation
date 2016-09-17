@@ -11,10 +11,11 @@ Properties the stack should have:
 * request reply and publish subscribe - http and websockets
 * high performance - Thrift protocol, tcp/ip (websockets)
 * cross language - Thrift protocol
+* automatic language stub generation -Thrift compiler
 * language agnostic network - Thrift protocol
 * modular polyglot microservices - PHP, Java, Javascript, PERL, C#, C++
 * evolving interfaces without breaking existing implementations -Thrift protocol
-* explicit interface and bounded context design -Thrift IDL
+* explicit and centralized interface and bounded context design -Thrift IDL
 
 
 
