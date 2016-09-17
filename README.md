@@ -1,8 +1,8 @@
 # Documentation
 This is the project's wiki and documentation
 
-The goal of the project is to provide a flexible technology stack that
-avoids monolithic architecture.
+The goal of the project is to provide a small flexible technology stack for the web that
+avoids monolithic architecture due to structured interfaces and a single cross language, cross platform protocol.
 
 Properties the stack should have:
 
