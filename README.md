@@ -17,9 +17,16 @@ Properties the stack should have:
 * evolving interfaces without breaking existing implementations -Thrift protocol
 * explicit and centralized interface and bounded context design -Thrift IDL
 
+Problem domains to solve:
 
+* Cross language protocol - Thrift TCompact binary protocol
+* Retain state in a cross language/platform way - Memcached, Apache Ignite, 
+* Retain state for overall session - Do we need ACID here?
+* Retain state on page controllers if needed - Do we need ACID here?
 
 Resources:
+
+https://en.m.wikipedia.org/wiki/List_of_in-memory_databases
 
 Wider den Monolith - Am Ende wird alles gut: https://vimeo.com/114853516
 
