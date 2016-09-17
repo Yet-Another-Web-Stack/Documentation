@@ -37,3 +37,10 @@ Opinion Maurice:
 For state handling i would prefer Apache ignite. Memchached client protocol is supported, it is distributed and clusterable,
 It integrates good with bigdata frameworks and hibernate and can handle ACID,
 can also do messaging, grid, streaming and events.
+You can connect to Ignite using a Memcached client in one of the following languages:
+    PHP
+    Java
+    Python
+    Ruby
+
+Maybe i could write a native Thrift adapter like i did for the KIE Server.
