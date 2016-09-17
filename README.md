@@ -20,7 +20,7 @@ Properties the stack should have:
 Problem domains to solve:
 
 * Cross language protocol - Thrift TCompact binary protocol
-* Retain state in a cross language/platform way - Memcached, Apache Ignite
+* Retain state in a cross language/platform way
 * Retain state for overall session
 * Retain state on page controllers if needed
 
