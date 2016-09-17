@@ -20,7 +20,7 @@ Properties the stack should have:
 Problem domains to solve:
 
 * Cross language protocol - Thrift TCompact binary protocol
-* Retain state in a cross language/platform way - Memcached, Apache Ignite, 
+* Retain state in a cross language/platform way - Memcached, Apache Ignite,
 * Retain state for overall session - Do we need ACID here?
 * Retain state on page controllers if needed - Do we need ACID here?
 
@@ -31,16 +31,3 @@ https://en.m.wikipedia.org/wiki/List_of_in-memory_databases
 Wider den Monolith - Am Ende wird alles gut: https://vimeo.com/114853516
 
 https://dzone.com/articles/polyglot-microservices-and-apache-thrift
-
-Opinion Maurice:
-
-For state handling i would prefer Apache ignite. Memchached client protocol is supported, it is distributed and clusterable,
-It integrates good with bigdata frameworks and hibernate and can handle ACID,
-can also do messaging, grid, streaming and events.
-You can connect to Ignite using a Memcached client in one of the following languages:
-    PHP
-    Java
-    Python
-    Ruby
-
-Maybe i could write a native Thrift adapter like i did for the KIE Server.
