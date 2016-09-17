@@ -20,9 +20,9 @@ Properties the stack should have:
 Problem domains to solve:
 
 * Cross language protocol - Thrift TCompact binary protocol
-* Retain state in a cross language/platform way - Memcached, Apache Ignite,
-* Retain state for overall session - Do we need ACID here?
-* Retain state on page controllers if needed - Do we need ACID here?
+* Retain state in a cross language/platform way - Memcached, Apache Ignite
+* Retain state for overall session
+* Retain state on page controllers if needed
 
 Resources:
 
