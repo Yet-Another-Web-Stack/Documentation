@@ -11,7 +11,7 @@ Additional the following rules are meant to be followed:
 * php may only be used with the long tags (<?php ?>)
 * class properties must be in lowerCamelCase
 * files may not mix php with none-php content, there are templating engines for that
-* properties must no be prefixed with an underscore as a visibility hint
+* properties must not be prefixed with an underscore as a visibility hint
 * magic methods besides __construct and __destruct should not be used
 * classes must not declare their type(Controller,Abstract,View,etc.) in their name, but in their namespace
 * constants and functions should not be used
