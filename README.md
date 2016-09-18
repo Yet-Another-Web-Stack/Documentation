@@ -26,6 +26,8 @@ Problem domains to solve:
 
 Resources:
 
+https://dzone.com/articles/linking-apache-ignite-and-apache-kafka-for-highly
+
 https://en.m.wikipedia.org/wiki/List_of_in-memory_databases
 
 Wider den Monolith - Am Ende wird alles gut: https://vimeo.com/114853516
