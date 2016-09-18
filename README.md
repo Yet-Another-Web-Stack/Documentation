@@ -19,10 +19,11 @@ avoids monolithic architecture due to structured interfaces and a single cross l
 
 ## Problem domains to solve:
 
+* Database caching
+* Key value store for cross language state caching
+* Datagrid, distributed key value store supporting ACID
+* Web session clustering, maybe cross language?
 * Cross language protocol - Thrift TCompact binary protocol
-* Retain state in a cross language/platform way
-* Retain state for overall session
-* Retain state on page controllers if needed
 
 ## Resources:
 
