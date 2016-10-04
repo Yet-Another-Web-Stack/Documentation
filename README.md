@@ -6,7 +6,7 @@ avoids monolithic architecture due to structured interfaces and a single cross l
 
 ## Properties the stack should have:
 
-* vendor neutral - MIT or Apache 2 licencing
+* vendor neutral - Apache2 licencing
 * light weight - HTML5 CSS3, ECMAscript, Thrift protocol
 * request reply and publish subscribe - http and websockets
 * high performance - Thrift protocol, tcp/ip (websockets)
