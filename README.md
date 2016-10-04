@@ -22,7 +22,7 @@ avoids monolithic architecture due to structured interfaces and a single cross l
 * Database caching
 * Key value store for cross language state caching
 * Datagrid, distributed key value store supporting ACID
-* Web session clustering, maybe cross language?
+* Web session clustering, cross language
 * Cross language protocol - Thrift TCompact binary protocol
 
 ## Resources:
